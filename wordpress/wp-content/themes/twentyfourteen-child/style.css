@@ -1,0 +1,15 @@
+/*
+Theme Name: Twenty Fourteen Child
+Theme URI: localhost
+Description: This is a child theme of twenty fourteen
+Author: TFC
+Author URI: localhost
+Template: twentyfourteen
+Version: 1.0
+*/
+
+@import url("../twentyfourteen/style.css");
+
+body{
+	background: blue;
+}
